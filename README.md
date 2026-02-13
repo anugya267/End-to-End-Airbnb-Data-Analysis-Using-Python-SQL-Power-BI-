@@ -203,6 +203,7 @@ SQL environments used:
 ## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize key insights.
+<img width="1432" height="800" alt="dashboard_airbnn" src="https://github.com/user-attachments/assets/0f098874-ca86-4e98-bdb9-65f93e60a56a" />
 
 ### Dashboard Includes:
 
