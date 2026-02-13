@@ -8,6 +8,23 @@ The Airbnb marketplace operates in a highly competitive and dynamic pricing envi
 
 This project performs a complete end-to-end data analysis pipeline to extract meaningful business insights from Airbnb listing data.
 
+This project demonstrates a complete end-to-end Data Analytics workflow from raw data loading to business insights presentation.
+
+The objective of this project is to:
+
+- Load and explore a real-world dataset using Python
+
+- Perform data cleaning and Exploratory Data Analysis (EDA)
+
+- Run advanced SQL queries using PostgreSQL / MySQL / SQL Server
+
+- Build an interactive Power BI dashboard
+
+- Generate a structured analytical report
+
+- Present insights using a professional PowerPoint (Gamma AI)
+
+This project highlights strong skills in data analysis, SQL querying, visualization, and business storytelling.
 
 ## 🏢 Business Context
 
@@ -97,7 +114,18 @@ This project performs a complete end-to-end data analysis pipeline to extract me
 - #### Power BI → Interactive dashboard creation & business storytelling
 
 - #### Jupyter Notebook → Reproducible analysis workflow
+```
+| Category       | Tools Used                         |
+| -------------- | ---------------------------------- |
+| Programming    | Python                             |
+| Libraries      | Pandas, NumPy, Matplotlib, Seaborn |
+| Database       | PostgreSQL / MySQL / SQL Server    |
+| Query Language | SQL                                |
+| Visualization  | Power BI                           |
+| Reporting      | Power BI Report + Gamma (PPT)      |
+| IDE            | Jupyter Notebook / VS Code         |
 
+```
 
 
 ## 🔄 Project Workflow
@@ -117,6 +145,86 @@ This project performs a complete end-to-end data analysis pipeline to extract me
 - Power BI Dashboard Development
 
 - Business Insights & Recommendations
+
+### 1️⃣ Data Loading
+
+- Imported dataset using Pandas
+
+- Checked data structure, column types, and summary statistics
+
+### 2️⃣ Data Cleaning
+
+- Handled missing values
+
+- Removed duplicates
+
+- Corrected data types
+
+- Standardized column names
+
+- Treated outliers (if applicable)
+
+### 3️⃣ Exploratory Data Analysis (EDA)
+
+- Univariate and bivariate analysis
+
+- Distribution plots and trend analysis
+
+- Correlation analysis
+
+- Business KPI identification
+
+### 4️⃣ SQL Analysis
+
+- Dataset exported to relational database.
+
+- Performed:
+
+- SELECT queries
+
+- GROUP BY & Aggregations
+
+- JOIN operations
+
+- Subqueries
+
+- Window functions (if applicable)
+
+- KPI calculations using SQL
+
+SQL environments used:
+
+- PostgreSQL
+
+- MySQL
+
+- SQL Server
+
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize key insights.
+
+### Dashboard Includes:
+
+- KPI Cards
+
+- Trend Analysis
+
+- Category-wise breakdown
+
+- Filters & slicers
+
+- Drill-down insights
+
+- Revenue / Performance analysis
+
+The dashboard enables stakeholders to:
+
+- Track performance metrics
+
+- Identify trends
+
+- Make data-driven decisions
 
 ## 🧹 Data Cleaning Steps
 
