@@ -84,7 +84,19 @@ This project performs a complete end-to-end data analysis pipeline to extract me
 - calculated_host_listings_count
 
 ## 🛠 Tools & Technologies
+### 🔹 Core Technologies Used
 
+- #### Python → Data cleaning, transformation, and EDA
+
+- #### Pandas & NumPy → Data manipulation and numerical analysis
+
+- #### Matplotlib & Seaborn → Statistical data visualization
+
+- #### SQL (MySQL / PostgreSQL) → Query-based business analysis & KPI extraction
+
+- #### Power BI → Interactive dashboard creation & business storytelling
+
+- #### Jupyter Notebook → Reproducible analysis workflow
 
 
 
